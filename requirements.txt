@@ -1,2 +1,2 @@
-Python
-Coverage
+pytest
+coverage
